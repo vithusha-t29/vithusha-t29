@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Vithusha T
--->
+
 # 💫 About Me:
 I'm an aspiring Data Scientist with a passion for Machine Learning and Data Analytics. My journey in tech is driven by curiosity and a desire to uncover meaningful insights from data to solve real-world problems. I'm currently honing my skills in data analysis, statistical modeling, and AI, working on impactful projects that showcase the power of data-driven decision-making.<br><br> 😄 Pronouns: She/Her<br>🌱 Currently Learning: Advanced Machine Learning<br>👯 Looking to collaborate on: Open-source projects, Data Science challenges<br>💬 Ask me about: Python,Machine Learning, Deep Learning, Natural Language Processing<br>📫 How to reach me: vithusha.t2911@gmail.com<br>⚡ Fun fact: I'm not just a Data Scientist; I'm also a proud pet parent<br><br><br><br>
 
